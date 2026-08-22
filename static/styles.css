@@ -1,0 +1,17 @@
+.navbar {
+    padding: 10px 30px;
+    padding-top: 20px;
+    padding-left: 0%;
+    margin-left: 0;
+    position: relative;
+}
+
+.nav-logo {
+    height: 120px;
+    width: auto;
+    margin: -40px 0;   /* lets the logo visually overflow above/below the navbar */
+}
+.nav-brand-text{
+    font-weight: 600;
+    font-size: larger;
+}
